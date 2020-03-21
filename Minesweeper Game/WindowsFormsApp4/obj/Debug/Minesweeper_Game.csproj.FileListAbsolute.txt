@@ -1,0 +1,9 @@
+C:\Users\CNRI5\Desktop\VS PROJE\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\CNRI5\Desktop\VS PROJE\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\CNRI5\Desktop\VS PROJE\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\CNRI5\Desktop\VS PROJE\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Minesweeper_Game.csprojAssemblyReference.cache
+C:\Users\CNRI5\Desktop\VS PROJE\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\CNRI5\Desktop\VS PROJE\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Minesweeper_Game.csproj.GenerateResource.cache
+C:\Users\CNRI5\Desktop\VS PROJE\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\CNRI5\Desktop\VS PROJE\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\CNRI5\Desktop\VS PROJE\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Minesweeper_Game.FormGamePlace.resources
